@@ -423,17 +423,5 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
-  },
-  "shopify": {
-    "checkout": {
-      "payment_gateway": {
-        "cash_on_delivery_label": "Cash on Delivery(COD)"
-      }
-    },
-    "notices": {
-      "order": {
-        "cash_on_delivery": "Cash on Delivery(COD)"
-      }
-    }
   }
 }
