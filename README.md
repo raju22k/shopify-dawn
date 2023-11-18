@@ -1,2 +1,2 @@
 # shopify-dawn
-Shopify Dawn theme customization
+Shopify Dawn theme customization theme
